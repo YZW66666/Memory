@@ -1,10 +1,10 @@
 package cn.yzw;
-
-
 public class App 
 {
     public static void main( String[] args )
     {
+        //=======================================
+        //=======666666666666666666666666666666666666666==========
         //二维数组
         int [][] grade = new int[2][3];
         grade[0][0]=1;
